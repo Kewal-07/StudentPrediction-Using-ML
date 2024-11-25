@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.append('/Users/kewaldharamshi/Documents/CODING/PYTHON/ML-project')
+sys.path.append("/Users/kewaldharamshi/Documents/CODING/PYTHON/ML-project")
 import numpy as np 
 import pandas as pd
 import dill

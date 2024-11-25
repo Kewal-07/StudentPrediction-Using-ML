@@ -7,7 +7,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder,StandardScaler
-sys.path.append('/Users/kewaldharamshi/Documents/CODING/PYTHON/ML-project')
+sys.path.append("/Users/kewaldharamshi/Documents/CODING/PYTHON/PROJECTS/ML projects/Student Preditction")
 from src.exception import CustomException
 from src.logger import logging
 import os
